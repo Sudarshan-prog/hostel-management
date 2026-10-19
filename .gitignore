@@ -1,0 +1,18 @@
+# Backend ignores
+backend/target/
+backend/data/
+backend/apache-maven-3.9.6/
+backend/*.log
+
+# Frontend ignores
+frontend/node_modules/
+frontend/build/
+frontend/.pnp
+frontend/.pnp.js
+frontend/*.log
+
+# IDE & OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db

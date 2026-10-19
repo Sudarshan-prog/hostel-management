@@ -1,0 +1,13 @@
+/* Add to bottom of file */
+
+.status-my-booking {
+  background: rgba(99, 102, 241, 0.15) !important;
+  color: var(--accent-primary) !important;
+  border-color: var(--accent-primary) !important;
+  box-shadow: 0 0 10px rgba(99, 102, 241, 0.2);
+  cursor: default;
+}
+
+.status-my-booking .selected-icon {
+  color: var(--accent-primary);
+}
